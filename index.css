@@ -340,7 +340,7 @@ footer{
  
 /*Starter*/
 #starter{
-    background: url(pageants\ \(1\).jpeg)no-repeat;
+    background: url(pagaents\ \(1\).jpeg)no-repeat;
     background-size: cover;
     width: 100%;
     height: 100vh;
@@ -357,24 +357,15 @@ footer{
 }
 @keyframes animate {
     0%{
-        background-image: url(pageants\ \(2\).jpeg);
+        background-image: url(pagaents\ \(1\).jpeg);
     }
     20%{
-        background-image: url(pageants\ \(3\).jpeg);
+        background-image: url(pagaents\ \(2\).jpeg);
     }
     40%{
-        background-image: url(pageants\ \(1\).jpeg);
+        background-image: url(pagaents\ \(3\).jpeg);
     }
-    60%{
-        background-image: url(pageants\ \(2\).jpeg);
     }
-    80%{
-        background-image: url(pageants\ \(3\).jpeg);
-    }
-    100%{
-        background-image: url(pageants\ \(2\).jpeg);
-    }
-}
     #middle{
         background: white;
         color:white;
@@ -441,4 +432,5 @@ footer{
         color: black;
     }
 }
+
 
